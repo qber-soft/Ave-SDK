@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://qber-soft.github.io/Ave-Nodejs-Docs/">
-    <img width="600" src="https://qber-soft.github.io/Ave-Nodejs-Docs/img/Ave-github-banner.svg">
+    <img width="600" src="https://qber-soft.github.io/Ave-Nodejs-Docs/img/Ave-banner.svg">
   </a>
 </p>
 
